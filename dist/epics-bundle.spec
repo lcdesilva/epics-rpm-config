@@ -1,5 +1,5 @@
 Name:           epics-bundle
-Version:        7.0.5_0.0.0
+Version:        7.0.8_0.0.0
 Release:        2%{?dist}
 Summary:        EPICS Base and Modules bundle
 
